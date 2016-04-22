@@ -67,3 +67,34 @@ article img{
 	outline-width: .1em;
 	outline-style: solid;
 }
+
+#about header{
+	background-image: url(../images/lineup.jpeg);
+}
+#photos header{
+	background-image: url(../images/basshead.jpg);
+}
+#live header{
+	background-image: url(../images/bassist.jpeg);
+}
+#contact header{
+	background-image: url(../images/drummer.jpeg);
+}
+
+#imagegallery li{
+	display: inline;
+}
+
+td {
+	padding: .5em 3em ;
+}
+
+th {
+	color: #223;
+	background-color: #455;
+}
+
+tr td{
+	color: #233;
+	background-color: #eb6;
+}
