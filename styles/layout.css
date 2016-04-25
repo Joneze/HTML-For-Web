@@ -98,3 +98,21 @@ tr td{
 	color: #233;
 	background-color: #eb6;
 }
+
+dl{
+	overflow: hidden;
+}
+dt{
+	float: left;
+}
+
+dd{
+	float: left;
+}
+
+label {
+	display: block;
+}
+fieldset{
+	border:0;
+}

@@ -78,3 +78,11 @@ header nav a.here:active{
 	background-color: #799;
 }
 
+tr.odd td{
+	color: #223;
+	background-color: #ec8;
+}
+tr.highlight td{
+	color: #223;
+	background-color: #cba;
+}
